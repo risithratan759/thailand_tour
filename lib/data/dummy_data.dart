@@ -32,13 +32,10 @@ const dummyMeals = [
     id: 'm1',
     categories: [
       'c1',
-      //'c2',
     ],
     title: 'wat phra chetuphon. wat pro',
-    //affordability: Affordability.affordable,
-    //complexity: Complexity.simple,
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fa/67/3c/temple-of-the-reclining.jpg?w=500&h=400&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipMc1DT4yKfrAzQkZCavMnfPLTonwC2exrP9N-1f=s680-w680-h510-rw',
     openTime: '8 am to 8 pm',
     nearestMetro: 'Mrt Sanam Chai',
     address: [
@@ -65,8 +62,7 @@ const dummyMeals = [
     ],
     title: 'Chatuchak Weekend Market',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/56/c6/14/dsc-2066-largejpg.jpg?w=500&h=400&s=1',
-    //duration: 20,
+        'https://lh3.googleusercontent.com/p/AF1QipM5Aekt-tdbWAvRZQNeTupoFmZosoz9IiCd6YH9=s680-w680-h510-rw',
     openTime: '12 am to 6 pm',
     nearestMetro: 'Chatuchak Park MRT station',
     address: [
@@ -99,7 +95,7 @@ const dummyMeals = [
     ],
     title: 'Siam Paragon',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/d7/7c/c2/apply-tourist-card-to.jpg?w=500&h=400&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipMOH4B-2CzFmd8tu_LLqDSPVpmwrACeXb23-mZk=s680-w680-h510-rw',
     openTime: '10:00 AM - 10:00 PM',
     nearestMetro: 'Bts Siam Station',
     address: [
@@ -127,7 +123,7 @@ const dummyMeals = [
     ],
     title: 'Temple Of Dawn (Wat Arun)',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ee/e6/a5/wat-arun-is-an-ancient.jpg?w=500&h=-1&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipOzGC7fYkIqJKa5bG7Nh1ngnl7LTtZA6Mm6BQGN=s680-w680-h510-rw',
     openTime: '8:00 AM - 6:00 PM',
     nearestMetro: 'Saphan Taksin Station',
     address: [
@@ -151,7 +147,7 @@ const dummyMeals = [
     ],
     title: 'The Grand Palace',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e3/cc/e6/photo2jpg.jpg?w=500&h=400&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipPmsVEOtBUaIGA3UpoPZbKeC45Mpunrl01bB-Hc=s680-w680-h510-rw',
     openTime: '8:30 AM - 3:30 PM',
     nearestMetro: 'Sanam Chai Station ',
     address: [
@@ -179,7 +175,7 @@ const dummyMeals = [
     ],
     title: 'Jim Thompson House',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f3/f2/f8/outside.jpg?w=500&h=-1&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipPdFS7GC_MLq5bf8yPLPBNV_PmVQ2ZvQ9XV6E5d=s680-w680-h510-rw',
     openTime: '10:00 AM - 5:00 PM',
     nearestMetro: 'National Stadium station ',
     address: [
@@ -204,7 +200,7 @@ const dummyMeals = [
     ],
     title: 'MBK Center (Ma Boon Khrong Center)',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/74/a1/0b/mbk-center.jpg?w=500&h=400&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipMygbGxtxAb00OMKwyTTlcNGDe4_dkczFU5BNEm=s680-w680-h510-rw',
     openTime: '10:00 AM - 10:00 PM',
     nearestMetro: 'Silom Line National Stadium BTS Station',
     address: [
@@ -217,7 +213,7 @@ const dummyMeals = [
       ' In addition, many visit the mall for the vendors trading in replica clothing and accessories.',
       ' There is a food court and multiple eateries on each floor—look through the mall directory ',
       'and pick from the local and international cuisines on offer. MBK Center is located near the Bangkok Art and Culture Center.',
-      ' Kick off your shopping mission by alighting at the National Stadium BTS Skytrain Station on a weekday morning'
+      ' Kick off your shopping mission by alighting at the National Stadium BTS Skytrain Station on a weekday morning.'
     ],
     moreToKnow:
         'https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho',
@@ -233,7 +229,7 @@ const dummyMeals = [
     ],
     title: 'Temple of the Emerald Buddha (Wat Phra Kaew)',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f7/25/18/caption.jpg?w=500&h=400&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipOky2XTdlMUYFOLusqI1h74UYd2JXmG-sxMNmQZ=s680-w680-h510-rw',
     openTime: '8:30 AM - 3:30 PM',
     nearestMetro: 'Sanam Chai Station (blue Line)',
     address: [
@@ -258,7 +254,7 @@ const dummyMeals = [
     ],
     title: 'CentralWorld',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/dd/6b/7c/centralworld.jpg?w=500&h=400&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipNMy7DIAgQRXD3ekfQmQh4McPYeCY0diwvMibU1=s680-w680-h510-rw',
     openTime: '10:00 AM - 10:00 PM',
     nearestMetro: 'Chit Lom BTS station',
     address: [
@@ -287,7 +283,7 @@ const dummyMeals = [
     ],
     title: 'Lumpini Park',
     imageUrl:
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b8/3b/d3/lumpini-park-4.jpg?w=900&h=500&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipOQYpKnUk0pEfoXeU0GwG591v8JHVGOLFLdXoRt=s680-w680-h510-rw',
     openTime: '10:00 AM - 10:00 PM',
     nearestMetro: 'Si Lom Station ',
     address: ['Lumphini, Pathum Wan, Bangkok 10330, Thailand'],
@@ -303,6 +299,81 @@ const dummyMeals = [
   ),
   Meal(
     id: 'm1',
+    categories: [
+      'c1',
+    ],
+    title: 'SEA LIFE Bangkok Ocean World',
+    imageUrl:
+        'https://lh3.googleusercontent.com/p/AF1QipMsTQjIs9yMV4PNXOmzPH4NvwNSmB-ROkdgjM8z=s680-w680-h510-rw',
+    openTime: '10:00 AM - 08:00 PM',
+    nearestMetro: 'Siam station',
+    address: [
+      'ชั้น บี1-บี2 สยามพารากอน 991 Rama I Rd, Pathum Wan, Bangkok 10330, Thailand'
+    ],
+    description: [
+      'Sea Life Bangkok Ocean World is an aquarium in Bangkok, Thailand and is the largest in South East Asia. ',
+      'It covers approximately 10,000 square meters',
+      ' with hundreds of different species on display in exhibits totaling about 5,000,000 liters',
+    ],
+    moreToKnow:
+        'https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho',
+    isBangkok: true,
+    isPattaya: false,
+    isChiangmai: false,
+    isChiangrai: false,
+  ),
+  Meal(
+    id: 'm1',
+    categories: [
+      'c1',
+    ],
+    title: 'Safari World Bangkok',
+    imageUrl:
+        'https://lh3.googleusercontent.com/p/AF1QipMsiY7tYep4m6-KYXo9R0FWkkSmapdDbDQsBpv3=s680-w680-h510-rw',
+    openTime: '09:00 AM - 05:00 PM',
+    nearestMetro: 'Victory Monument Metro Station.',
+    address: [
+      '99 Panya Indra Rd, Sam Wa Tawan Tok, Khlong Sam Wa, Bangkok 10510, Thailand'
+    ],
+    description: [
+      'Safari World is a tourist attraction in Bangkok, Thailand that consists of two parks named Marine Park and Safari Park, ',
+      'operated by Safari World Public Limited. ',
+      'The park was opened in 1988 with a total area of 480 acres for its open zoo and 180 acres for its bird park. ',
+    ],
+    moreToKnow:
+        'https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho',
+    isBangkok: true,
+    isPattaya: false,
+    isChiangmai: false,
+    isChiangrai: false,
+  ),
+  Meal(
+    id: 'm1',
+    categories: [
+      'c1',
+    ],
+    title: 'Asiatique The Riverfront',
+    imageUrl:
+        'https://lh3.googleusercontent.com/p/AF1QipP-zERLKeg_fo2IbD9kEIg7Twp_qhWBXGUw5SjP=s680-w680-h510-rw',
+    openTime: '11:00 AM - 12:00 AM',
+    nearestMetro: 'Saphan Taksin station (BTS) ',
+    address: [
+      '2194 ถ. เจริญกรุง Wat Phraya Krai, Bang Kho Laem, Bangkok 10120, Thailand'
+    ],
+    description: [
+      'Asiatique: The Riverfront is a large open-air mall in Bangkok, Thailand.',
+      ' It occupies the former docks of the East Asiatic Company, and faces the Chao Phraya River and Charoen Krung Road. ',
+      'The complex opened in 2012 after extensive renovation of the site.',
+    ],
+    moreToKnow:
+        'https://www.tourismthailand.org/Attraction/wat-phra-chetuphon-wimonmangkalaram-ratchaworamahawihan-or-wat-pho',
+    isBangkok: true,
+    isPattaya: false,
+    isChiangmai: false,
+    isChiangrai: false,
+  ),
+  Meal(
+    id: 'm2',
     categories: [
       'c2',
     ],
